@@ -50,3 +50,54 @@ NASA-Ultra-High-Resolution-Imagery-Cloud-Interactive-Platform/
 │   └── vite.config.js  # Vite 建置組態
 ├── docs/               # 專案架構文件與 API 規格說明
 └── README.md           # 專案說明文件
+
+🚀 快速開始 (Quick Start)
+前置需求 (Prerequisites)
+Git
+
+Python 3.9+
+
+Node.js 16+
+
+1. 克隆儲存庫 (Clone Repository)
+Bash
+git clone [https://github.com/AuroraShiao/NASA-Ultra-High-Resolution-Imagery-Cloud-Interactive-Platform.git](https://github.com/AuroraShiao/NASA-Ultra-High-Resolution-Imagery-Cloud-Interactive-Platform.git)
+cd NASA-Ultra-High-Resolution-Imagery-Cloud-Interactive-Platform
+2. 後端環境設定 (Backend Setup)
+Bash
+cd backend
+python -m venv venv
+
+# Windows 啟動虛擬環境：
+# venv\Scripts\activate
+
+# macOS / Linux 啟動虛擬環境：
+source venv/bin/activate
+
+pip install -r requirements.txt
+python main.py
+💡 後端啟動後，可造訪 API 互動文件：http://localhost:8000/docs
+
+3. 前端環境設定 (Frontend Setup)
+Bash
+cd ../frontend
+npm install
+npm run dev
+💡 開啟瀏覽器訪問 http://localhost:5173 即可體驗互動式地圖平台。
+
+🤝 貢獻指南 (Contributing)
+歡迎提交 Pull Request 或開立 Issues 提出建議與改善方案！
+
+Fork 本專案
+
+建立功能分支 (git checkout -b feature/AmazingFeature)
+
+提交變更 (git commit -m 'Add some AmazingFeature')
+
+推送至分支 (git push origin feature/AmazingFeature)
+
+開啟 Pull Request
+
+📜 授權條款 (License)
+本專案採用 MIT License 授權條款。
+
