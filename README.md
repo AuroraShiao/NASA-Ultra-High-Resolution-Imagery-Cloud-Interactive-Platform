@@ -2,10 +2,6 @@
 
 <p>An interactive cloud platform designed for real-time visualization, processing, and analysis of NASA's ultra-high-resolution satellite imagery and spatial datasets.</p>
 
-# NASA Ultra High Resolution Imagery Cloud Interactive Platform 🌌🛰️
-
-An interactive cloud platform designed for real-time visualization, processing, and analysis of NASA's ultra-high-resolution satellite imagery and spatial datasets.
-
 **[ 💻 Python 3.9+ ]** **[ ⚡ FastAPI ]** **[ ⚛️ React ]** **[ 📜 MIT License ]**
 
 <hr>
