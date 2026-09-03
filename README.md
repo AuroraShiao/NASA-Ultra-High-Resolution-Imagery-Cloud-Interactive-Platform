@@ -2,13 +2,11 @@
 
 <p>An interactive cloud platform designed for real-time visualization, processing, and analysis of NASA's ultra-high-resolution satellite imagery and spatial datasets.</p>
 
-<p>
-  <a href="[https://github.com/AuroraShiao/NASA-Ultra-High-Resolution-Imagery-Cloud-Interactive-Platform](https://github.com/AuroraShiao/NASA-Ultra-High-Resolution-Imagery-Cloud-Interactive-Platform)"><img src="[https://img.shields.io/badge/GitHub-Repository-blue?logo=github](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)" alt="GitHub Repo"></a>
-  <img src="[https://img.shields.io/badge/Python-3.9+-green?logo=python](https://img.shields.io/badge/Python-3.9+-green?logo=python)" alt="Python Version">
-  <img src="[https://img.shields.io/badge/FastAPI-0.95+-009688?logo=fastapi](https://img.shields.io/badge/FastAPI-0.95+-009688?logo=fastapi)" alt="FastAPI">
-  <img src="[https://img.shields.io/badge/React-18+-61DAFB?logo=react](https://img.shields.io/badge/React-18+-61DAFB?logo=react)" alt="React">
-  <img src="[https://img.shields.io/badge/License-MIT-yellow](https://img.shields.io/badge/License-MIT-yellow)" alt="License">
-</p>
+# NASA Ultra High Resolution Imagery Cloud Interactive Platform 🌌🛰️
+
+An interactive cloud platform designed for real-time visualization, processing, and analysis of NASA's ultra-high-resolution satellite imagery and spatial datasets.
+
+**[ 💻 Python 3.9+ ]** **[ ⚡ FastAPI ]** **[ ⚛️ React ]** **[ 📜 MIT License ]**
 
 <hr>
 
